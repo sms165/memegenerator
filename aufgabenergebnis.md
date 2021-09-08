@@ -27,7 +27,6 @@ html-to-image: um das Bild mit text als PNG zu speichern
 
 Beschreibe, wie wir uns das Projekt lokal anschauen können.
 
-Zum Beispiel:
 
 Folgende Komponenten müssen lokal installiert sein:
 
