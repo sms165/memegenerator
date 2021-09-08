@@ -1,5 +1,7 @@
 Aufgabenergebnis
 
+*screenrecording befindet sich auch hier auf GitHub als vorstellung von den funktionen der GUI
+
 Eingesetzte Technologien / Frameworks
 
 Folgende Technolgien / Frameworks setze ich in meinem Projekt ein:
